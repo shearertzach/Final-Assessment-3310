@@ -8,7 +8,7 @@ function formatPhone(phoneNumber: string): string {
     return (
       "(" +
       formattedNumber[1] +
-      ")" +
+      ") " +
       formattedNumber[2] +
       "-" +
       formattedNumber[3]
