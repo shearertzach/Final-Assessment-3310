@@ -1,5 +1,5 @@
 {
-  "name": "format-phone",
+  "name": "@zach-shearer/format-phone",
   "version": "1.0.1",
   "description": "",
   "main": "./dist/index.js",

@@ -10,14 +10,14 @@ For the final assessment in ACS3310, we were tasked to formatting phone numbers.
 ## Installation and Usage
 
 ```bash
-npm install format-phone
+npm install @zach-shearer/format-phone
 ```
 
 ```JS
 // CommonJS
-const { formatPhone } = require('format-phone')
+const { formatPhone } = require('@zach-shearer/format-phone')
 // or ES6
-import { formatPhone } from 'format-phone'
+import { formatPhone } from '@zach-shearer/format-phone'
 
 
 formatPhone('5555555555') // (555)-555-5555
