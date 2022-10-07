@@ -1,6 +1,6 @@
 {
-  "name": "phone-format",
-  "version": "1.0.0",
+  "name": "format-phone",
+  "version": "1.0.1",
   "description": "",
   "main": "./dist/index.js",
   "scripts": {
